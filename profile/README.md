@@ -7,4 +7,4 @@
 
 ## Tentang OpenProjects.id
   
-OpenProjects.id adalah sebuah platform open source yang berfungsi untuk mengumpulkan semua proyek open source di Indonesia. OpenProjects.id hadir untuk mengumpulkan sumber daya manusia (developer) dan juga para product owner yang ingin membuat proyek & produk baru. 
+OpenProjects.id adalah sebuah platform open source yang berfungsi untuk mengumpulkan semua proyek open source di Indonesia. OpenProjects.id hadir untuk mempertemukan sumber daya manusia (developer) dan juga para product owner yang ingin membuat proyek & produk baru. 
